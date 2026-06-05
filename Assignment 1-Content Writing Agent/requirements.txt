@@ -1,0 +1,8 @@
+# Microsoft Agent Framework (core + OpenAI-compatible chat client)
+agent-framework
+
+# Loads environment variables from a local .env file
+python-dotenv
+
+# Web UI framework for the demo (streamlit run app.py)
+streamlit
