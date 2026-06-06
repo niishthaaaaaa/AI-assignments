@@ -1,0 +1,14 @@
+# Microsoft Agent Framework (core + OpenAI-compatible chat client) — text copy
+agent-framework
+
+# Google's native GenAI SDK — used for ad image/graphic generation
+google-genai
+
+# Pillow — composes the local ad-creative graphic (offline fallback)
+pillow
+
+# Loads environment variables from a local .env file
+python-dotenv
+
+# Web UI framework for the demo (streamlit run app.py)
+streamlit
