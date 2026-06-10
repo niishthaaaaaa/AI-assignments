@@ -1,6 +1,6 @@
 # Assignment 1 — Content Writing Agent
 
-A professional **Content Writing Agent** built with the **Microsoft Agent Framework** in **Python**, powered by **Google Gemini (gemini-2.5-flash)**. It generates well-structured written content (Title, Introduction, Main Content, Conclusion) in simple language suitable for students.
+A professional **Content Writing Agent** built with the **Microsoft Agent Framework** in **Python**, powered by **Google Gemini (gemini-2.5-flash)**. It generates well-structured written content (Title, Introduction, Main Content, Conclusion) in simple language.
 
 The agent's behavior rules live in [instructions.md](instructions.md) and are loaded automatically at runtime.
 
