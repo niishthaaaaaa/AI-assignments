@@ -1,6 +1,6 @@
 # Understanding the Content Writing Agent
 
-This guide explains how the two main files of **Assignment 1** work, in plain language, for a developer who is new to the project.
+This guide explains how the two main files of **Assignment 1** work, in plain language.
 
 - [content_writing_agent.py](content_writing_agent.py) — the "brain": connects to Google Gemini and writes the content.
 - [app.py](app.py) — the "face": a Streamlit web page where you type a title and see the result.
